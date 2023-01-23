@@ -1,0 +1,57 @@
+body{
+    background-color: #e0fbfc;
+}
+
+h2{
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.carousel-item{
+    text-align: center;
+}
+
+.carousel{
+    
+    margin-bottom: 100px;
+}
+
+.row{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+p{
+    font-size: x-large;
+    text-align: center;
+}
+
+.start{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+table{
+    text-align: start;
+}
+
+li{
+    font-size: large;
+    text-align: start;
+}
+
+.navImg{
+    width: 50px;
+}
+
+.me{
+    width: 280px;
+}
+
+.gif{
+    width: 500px;
+}
+
+
+
+
